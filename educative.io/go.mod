@@ -1,3 +1,3 @@
-module github.com/goplateau/interviews/educative.io
+module github.com/gobeen/interviews/educative.io
 
 go 1.19
