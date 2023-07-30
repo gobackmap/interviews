@@ -2,9 +2,8 @@
 https://www.educative.io/blog/50-golang-interview-questions.
 
 - You can run
-```bash 
-    make solve q=n
+```bash
+    go run qXX-YYY/sXX.go
 ```    
- where n is an existing question number. Feel free to check the Makefile. 
-
-- You can also read question/solution number n in qn.md/sn.go file respectively. 
+ where XX is an existing question number and YYY is the title of the question.
+ Feel free to check the Makefile.

@@ -7,6 +7,7 @@ func reverse(sw []int) {
 		sw[a], sw[b] = sw[b], sw[a]
 	}
 }
+
 func main() {
 	slice := []int{3, 5, -7}
 	fmt.Println("got:", slice)
